@@ -1,7 +1,7 @@
 
 # level
 1.1
-![alt text](learn-git-branching/git-level/1.1.png)
+![alt text](learn-git-branching/git-level/1.1.jpeg)
 1.2
 ![alt text](learn-git-branching/git-level/1.2.png)
 1.3
